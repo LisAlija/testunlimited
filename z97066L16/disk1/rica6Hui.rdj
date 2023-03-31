@@ -1,0 +1,13 @@
+{
+	"ini_list"	: 
+	[
+		{
+			"PrinterModelName"	: ["MP C3003","MP C3503","DSc1030"],
+			"LoadDll"			: "MFRicr64.dll",
+			"ResDll"			: "RD06Hd64.dll",
+			"Version"			: "1.1.20.0"
+			
+		}
+	]
+}
+
